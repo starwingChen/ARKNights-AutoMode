@@ -1,11 +1,14 @@
 # ARKNights-AutoMode
 基于图像识别+模拟点击，行为全在PC系统上，不与手机或模拟器直接交互，因此无封号风险。
 
-## 依赖库
+## 依赖项
 
-- pyautogui
-- pillow（GIL）
-- openCV
+- python
+- 第三方库：
+  - pyautogui
+  - pillow（GIL）
+  - openCV
+- 夜神模拟器（或其他安卓模拟器）
 
 **目前脚本兼容性还有些问题，在不同分辨率的屏幕下，图像可能不能正常识别，后续~~大概~~会逐步完善。**
 
